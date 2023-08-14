@@ -1,2 +1,2 @@
 # Images
-Private repository for storing images for documentation.
+Repository for storing images for documentation.
